@@ -4,6 +4,7 @@ import random
 
 loop = True
 
+# loop the menu
 while loop == True:
     print("\nDice Roll Simulator Menu")
 
